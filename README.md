@@ -1,9 +1,7 @@
 
-# Aplicação com funções baseadas em HTML 5, simula pagina de um curriculo profissional.
+# Aplicação com funções baseadas em HTML 5, contem pagina de curriculo profissional.
 
 Esta Aplicação gera uma pagina de um curriculo profissional em HTML 5, com styleSheet externo configurando o layout da pagina. 
-
-
 
 
 # Olá, eu sou o Umberto! 👋
